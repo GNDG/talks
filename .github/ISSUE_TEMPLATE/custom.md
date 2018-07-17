@@ -22,7 +22,7 @@ about: Describe this issue template's purpose here.
 
 <!--- Time that your talk/workshop would take -->
 
-**Level**
+**Target Audience**
 
 <!--- Beginner/Intermediate/Advanced -->
 
